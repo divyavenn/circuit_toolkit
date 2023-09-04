@@ -7,4 +7,4 @@ circuit_analyzer.py allows you to enter in all common circuit elements and it wi
 The correctness of these scripts has been validates across a semester's worth of circuit problems, from simple to advanced.
 You can add any number of current and voltage sources, in any number of mesh configurations, using a simple array input.
 
-![image](https://github.com/divyavenkatraman/circuit_toolkit/assets/44758649/ee01d6e0-9722-4587-a95c-71d7d057e9b0)
+![image](https://github.com/divyavenkatraman/circuit_toolkit/assets/44758649/831c88bd-e049-4a14-83c1-bc8a7d649821)
